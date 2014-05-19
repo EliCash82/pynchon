@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  novel_id: 1
+  time_viewed: 2014-05-19 01:24:11
+  ip: MyString
+
+two:
+  novel_id: 1
+  time_viewed: 2014-05-19 01:24:11
+  ip: MyString
